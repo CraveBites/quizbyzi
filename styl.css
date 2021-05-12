@@ -1,0 +1,15 @@
+body{
+  font-size:90px;
+  text-align: center;
+  font-family: fantasy;
+  background-color: orange;
+  border: solid;
+  border-width: 15px;
+  border-color: red;
+  border-radius: 75px 0 75px 0;
+}
+
+h1, p{
+  color:lightsalmon;
+  background: linear-gradient(45deg,red,orange);
+}
